@@ -1,0 +1,16 @@
+.odd {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#no2 {
+    color: blue;
+    font-size: 36px;
+}
+.ting {
+    font-size: 24px;
+}
+#no4 {
+    color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
